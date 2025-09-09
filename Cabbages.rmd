@@ -42,6 +42,8 @@ I looked at the the helper files and I chose the numerical categorical because V
 boxplot(VitC~Cult,data=veggy)
 ```
 
+This is measuring the vitamin C content that is dependent on cultivation. The first quartile of c52 is above the c39 third quartile which tells me that c52 is significantly different from c39.
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->

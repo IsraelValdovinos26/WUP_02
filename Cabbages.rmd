@@ -63,6 +63,7 @@ The Q3 value of c39 which is 54.75 is lower than the Q1 value  of c52 which is 5
 t.test(VitC~Cult,data=veggy)
 ```
 
+The chances of getting this result is .00000003405 meaning that they are not alike at all.
 
 # Discussion and Conclusion
 
